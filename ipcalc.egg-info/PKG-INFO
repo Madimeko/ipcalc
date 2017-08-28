@@ -1,0 +1,27 @@
+Metadata-Version: 1.1
+Name: ipcalc
+Version: 0.0.0
+Summary: MyProject Package Example
+Home-page: http://www.fwiw.co.za
+Author: christiaan F Rademan
+Author-email: chris@fwiw.co.za
+License: BSD 3-Clause
+Description: 
+        
+        hello this is test
+        
+        you install this by doing python setup.py install
+        
+        
+        
+Keywords: another example
+Platform: UNKNOWN
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Classifier: Environment :: Other Environment
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
